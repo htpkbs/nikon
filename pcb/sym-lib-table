@@ -1,3 +1,3 @@
 (sym_lib_table
-  (lib (name nikon)(type Legacy)(uri ${KIPRJMOD}/nikon.lib)(options "")(descr ""))
+  (lib (name "nikon")(type "KiCad")(uri "${KIPRJMOD}/nikon.kicad_sym")(options "")(descr ""))
 )
