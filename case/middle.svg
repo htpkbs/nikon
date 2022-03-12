@@ -6,7 +6,7 @@
    version="1.1"
    id="svg860"
    inkscape:version="1.2-alpha (0bd5040e, 2022-02-05)"
-   sodipodi:docname="plate_staggered_v1_side.svg"
+   sodipodi:docname="middle.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -77,8 +77,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.5723026"
-     inkscape:cx="506.9388"
-     inkscape:cy="442.59956"
+     inkscape:cx="330.05448"
+     inkscape:cy="381.95351"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -176,301 +176,19 @@
        id="g24407"
        transform="matrix(9.9999996e-7,0,0,9.9999996e-7,-68.554508,2.7975536)" />
     <g
-       id="g108818"
-       transform="matrix(1.0034873,0,0,1.0038771,-0.27770126,-0.27514061)"
-       style="stroke-width:0.996331">
+       id="g5249"
+       transform="matrix(1.005007e-6,0,0,1.0050078e-6,6.3180282,5.1202339)"
+       style="stroke-width:0.995018">
       <g
-         id="g61795"
-         transform="translate(0.1039331,0.318)"
-         style="stroke-width:0.996331">
-        <g
-           style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:199266;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="g24625"
-           transform="matrix(9.9999996e-7,0,0,9.9999996e-7,7.8460669,3.6159651)">
-          <path
-             id="path24439"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none"
-             d="M 127566400,40637100 V 49285800 M 125051800,38122500 V 4565800 M 63050000,4565800 H 110059200 M 50000,13065800 V 98065800 M 125051800,82822400 143314400,93363400 M 110059200,4565800 112059200,2575600 M 127566400,40637100 125051800,38122500 M 125051800,51800400 V 82822400 M 123051880,4565800 121051880,2575600 M 127566400,49285800 125051800,51800400 M 121318000,131488800 63428000,98065800 M 123051880,4565800 H 125051800 M 112059200,2575600 H 121051880 M 121318000,131488800 143314400,93363400 M 63428000,98065800 H 50000 M 63050000,4531400 50000,13065800"
-             inkscape:path-effect="#path-effect109694"
-             inkscape:original-d="M 127566400,40637100 V 49285800 M 125051800,38122500 V 4565800 M 63050000,4565800 H 110059200 M 50000,13065800 V 98065800 M 125051800,82822400 143314400,93363400 M 110059200,4565800 112059200,2575600 M 127566400,40637100 125051800,38122500 M 125051800,51800400 V 82822400 M 123051880,4565800 121051880,2575600 M 127566400,49285800 125051800,51800400 M 121318000,131488800 63428000,98065800 M 123051880,4565800 H 125051800 M 112059200,2575600 H 121051880 M 121318000,131488800 143314400,93363400 M 63428000,98065800 H 50000 M 63050000,4531400 50000,13065800" />
-          <g
-             id="g24441"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24443"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24445"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24447"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24449"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24451"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24453"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24455"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24457"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24459"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24461"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24463"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24465"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24467"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24469"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24471"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24473"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24475"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24477"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24479"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24481"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24483"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24485"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24487"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24489"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24491"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24493"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24495"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24497"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24499"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24501"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24503"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24505"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24507"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24509"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24511"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24513"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24515"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24517"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24519"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24521"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24523"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24525"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24527"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24529"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24531"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24533"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24535"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24537"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24539"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24541"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24543"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24545"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24547"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24549"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24551"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24553"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24555"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24557"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24559"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24561"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24563"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24565"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24567"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24569"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24571"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24573"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24575"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24577"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24579"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24581"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24583"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24585"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24587"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24589"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24591"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24593"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24595"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24597"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24599"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24601"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24603"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24605"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24607"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24609"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24611"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24613"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24615"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24617"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24619"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24621"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-          <g
-             id="g24623"
-             style="fill:none;stroke-width:199266;stroke-miterlimit:4;stroke-dasharray:none" />
-        </g>
-      </g>
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.995018;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="g127" />
+      <g
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="g129" />
+      <path
+         id="path165"
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:199005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 128584360,38874299 128580560,47486836 M 126069760,36359700 V 2803000 M 55076764,2803000 37068164,4927600 M 55076764,2803000 H 111077160 M 1067964,11303000 V 96303000 M 126069760,81059600 144332360,91600600 M 111077160,2803000 113077160,812800 M 128584360,38874300 126069760,36359700 M 126069760,50037600 V 81059600 M 1067964,11303000 37068164,4927600 M 124069840,2803000 122069840,812800 M 128584360,47523000 126069760,50037600 M 122335960,129726000 64445964,96303000 M 124069840,2803000 H 126069760 M 113077160,812800 H 122069840 M 122335960,129726000 144332360,91600600 M 64445964,96303000 H 1067964" />
     </g>
   </g>
 </svg>
