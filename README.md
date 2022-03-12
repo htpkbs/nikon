@@ -21,9 +21,11 @@ Stuff that will go elsewhere but I want to make a note of for now.
 
 # Key Layout
 
-This is the key layout (can be pasted into [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/):
+The key layout looks like this:
 
-With column stagger:
+![Key layout](assets/layout.png)
+
+This is the raw data that can be pasted into [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/):
 
 ```
 [{x:3,c:"#2e2e2e",t:"#9c9c9c",a:7},"3",{x:8.5},"8"],
@@ -59,7 +61,9 @@ With column stagger:
 
 # PCB Renders
 
-To-do.
+![PCB front](assets/front.png)
+
+![PCB back](assets/back.png)
 
 # Case
 
@@ -67,7 +71,7 @@ Files are in the `case` directory.
 
 # Schematic
 
-To-do.
+[There is a PDF of the schematic here](assets/schematic.pdf).
 
 # AVR Programming
 
