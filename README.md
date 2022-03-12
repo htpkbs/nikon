@@ -61,9 +61,9 @@ This is the raw data that can be pasted into [Keyboard Layout Editor](http://www
 
 # PCB Renders
 
-![PCB front](assets/front.png)
+![Left PCB front](assets/left.png)
 
-![PCB back](assets/back.png)
+![Right PCB front](assets/right.png)
 
 # Case
 
