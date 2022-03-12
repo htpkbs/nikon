@@ -15,10 +15,6 @@ It has:
 
 Capacitors `C1` and `C4` are mislabeled! The silkscreen labels are swapped.
 
-# Scratch
-
-Stuff that will go elsewhere but I want to make a note of for now.
-
 # Key Layout
 
 The key layout looks like this:
