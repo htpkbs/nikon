@@ -2,4 +2,5 @@
 _autosave*
 *-bak
 *-cache*
+*-backups*
 pcb/gerber/
